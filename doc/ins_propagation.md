@@ -75,5 +75,3 @@ where:
 - **Attitude (Orientation)**: Estimated using gyroscope data and quaternions.
 - **Gravity Compensation**: Required if acceleration is measured in body frame.
 - **Sensor Fusion**: IMU-only solutions drift over time; GPS or external sensors improve accuracy.
-
-Would you like an **extended version** that incorporates **sensor fusion (Kalman Filter)?** 🚀
